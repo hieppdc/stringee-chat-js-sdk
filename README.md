@@ -4,6 +4,9 @@
 
 `$ npm install stringee-chat-js-sdk --save`
 
+## Version 0.1.6
+- Add more last message information to conversation.
+
 ## Version 0.1.5
 - Fix bug socket autoreconnect after user call disconnect function.
 
