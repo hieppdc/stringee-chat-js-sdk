@@ -1,6 +1,6 @@
 {
   "name": "stringee-chat-js-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "The Stringee communication platform makes it easy to embed high-quality interactive video, voice, SMS into webs and mobile apps.",
   "main": "stringee_sdk.min.js",
   "scripts": {
