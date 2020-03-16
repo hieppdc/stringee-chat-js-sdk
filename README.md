@@ -4,6 +4,12 @@
 
 `$ npm install stringee-chat-js-sdk --save`
 
+## Version 0.2.0
+- Add events for removing participants
+
+## Version 0.1.9
+- Add more utility fuctions for message
+
 ## Version 0.1.8
 - Fire conversation update events.
 
